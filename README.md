@@ -6,10 +6,11 @@ They are used with the NWS-forecast (advforecast2.php), Wunderground-forecast (W
 
 The correct directory structure is:
 
+```
 ./forecast
 ./forecast/images
 ./forecast/icon-templates
-
+```
 The [saratoga-icons2.zip](./saratoga-icons2.zip) set are 55x55px .jpg images.
 
 The [saratoga-icons2-png-86x86.zip](saratoga-icons2-png-86x86.zip) are 86x86px .png images
